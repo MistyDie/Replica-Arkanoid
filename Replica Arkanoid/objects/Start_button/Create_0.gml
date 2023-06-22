@@ -1,3 +1,3 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-audio_play_sound(BackgroundMusic,1,false);
+audio_play_sound(BackgroundMusic,1,true);

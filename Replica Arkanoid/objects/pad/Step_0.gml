@@ -20,6 +20,6 @@ if (keyboard_check(vk_escape)==true)
 if (instance_number(ball)==0)
 	instance_create_layer(pad.x, pad.y-15,"Instances", ball);
 if (instance_number(blueblock)==0 and instance_number(greenblock)==0 and instance_number(purpleblock)==0 and instance_number(redblock)==0 and instance_number(resistblock)==0 and instance_number(yellowblock)==0)
-	room_goto(Nivel2)
+	room_goto_next()
 if (instance_number(ball_xd)==0)
 	room_restart()

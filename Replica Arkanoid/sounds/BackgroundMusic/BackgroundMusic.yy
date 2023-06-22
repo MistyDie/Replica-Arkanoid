@@ -10,7 +10,7 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 965.2245,
+  "duration": 99.70939,
   "parent": {
     "name": "Sonidos",
     "path": "folders/Sonidos.yy",
@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "BackgroundMusic.mp3",
   "type": 0,
-  "volume": 0.01,
+  "volume": 0.3,
 }
