@@ -1,4 +1,5 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
+global.lives+=1;
 
-hspeed=-hspeed;
+instance_destroy(other);

@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "Powerups",
+    "path": "folders/Objetos/Powerups.yy",
   },
   "parentObjectId": null,
   "persistent": false,

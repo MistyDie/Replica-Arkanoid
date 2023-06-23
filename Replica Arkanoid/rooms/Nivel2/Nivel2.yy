@@ -58,7 +58,6 @@
     {"name":"inst_796EFCA3_1","path":"rooms/Nivel2/Nivel2.yy",},
     {"name":"inst_48AEB344_1","path":"rooms/Nivel2/Nivel2.yy",},
     {"name":"inst_2B8E8B85_1","path":"rooms/Nivel2/Nivel2.yy",},
-    {"name":"inst_312781B9_1","path":"rooms/Nivel2/Nivel2.yy",},
     {"name":"inst_1330CE6F_1","path":"rooms/Nivel2/Nivel2.yy",},
     {"name":"inst_2B782676_1","path":"rooms/Nivel2/Nivel2.yy",},
     {"name":"inst_10B21A87_1","path":"rooms/Nivel2/Nivel2.yy",},
@@ -168,8 +167,6 @@
     {"name":"inst_23CA10C5","path":"rooms/Nivel2/Nivel2.yy",},
     {"name":"inst_30D44F78","path":"rooms/Nivel2/Nivel2.yy",},
     {"name":"inst_6554002D","path":"rooms/Nivel2/Nivel2.yy",},
-    {"name":"inst_73802F21","path":"rooms/Nivel2/Nivel2.yy",},
-    {"name":"inst_49C381A5","path":"rooms/Nivel2/Nivel2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -225,7 +222,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_796EFCA3_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"wallbottom","path":"objects/wallbottom/wallbottom.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1152.0,"y":160.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_48AEB344_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"wallbottom","path":"objects/wallbottom/wallbottom.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1216.0,"y":160.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2B8E8B85_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"wallbottom","path":"objects/wallbottom/wallbottom.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":1.0,"x":928.0,"y":160.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_312781B9_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"ball_xd","path":"objects/ball_xd/ball_xd.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":128.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1330CE6F_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"pad","path":"objects/pad/pad.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":704.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2B782676_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"wallright","path":"objects/wallright/wallright.yy",},"properties":[],"rotation":89.85647,"scaleX":1.0,"scaleY":1.0,"x":896.0,"y":64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10B21A87_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"walleft","path":"objects/walleft/walleft.yy",},"properties":[],"rotation":89.788795,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":64.0,},
@@ -335,8 +331,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_23CA10C5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"greenblock","path":"objects/greenblock/greenblock.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_30D44F78","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"greenblock","path":"objects/greenblock/greenblock.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":416.0,"y":416.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6554002D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"draw__gui","path":"objects/draw__gui/draw__gui.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":224.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_73802F21","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"ball_xd","path":"objects/ball_xd/ball_xd.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1088.0,"y":128.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_49C381A5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"ball_xd","path":"objects/ball_xd/ball_xd.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1216.0,"y":128.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_2DCA141","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":0.8072289,"scaleY":1.4571428,"spriteId":{"name":"dale_zelda","path":"sprites/dale_zelda/dale_zelda.yy",},"x":-32.0,"y":384.0,},

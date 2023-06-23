@@ -20,8 +20,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "Balls",
+    "path": "folders/Objetos/Balls.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -40,8 +40,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "ballGrey",
-    "path": "sprites/ballGrey/ballGrey.yy",
+    "name": "ballBlue",
+    "path": "sprites/ballBlue/ballBlue.yy",
   },
   "spriteMaskId": null,
   "visible": true,
